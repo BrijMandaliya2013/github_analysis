@@ -1,0 +1,10 @@
+@import './base.css';
+
+#app {
+  /* max-width: 1280px; */
+  min-height: 100vh;
+  max-height: 1500px;
+  background-color: rgb(38, 40, 51);
+  margin: 0 auto;
+  font-weight: normal;
+}
